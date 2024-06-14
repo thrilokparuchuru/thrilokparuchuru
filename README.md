@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thrilokparuchuru&label=Profile%20views&color=0e75b6&style=flat" alt="thrilokparuchuru" /> </p>
 
-- 🌱 I’m currently learning **react native** and looking for **New opportunities**
+- 🌱 I’m currently looking for **New opportunities**
 
 - 💬 Ask me about **react javascript css html**
 
